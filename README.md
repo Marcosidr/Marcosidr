@@ -2,7 +2,7 @@
 - 👀 I’m interested in ser um bom progamador
 - 🌱 I’m currently learnin comandos git, javaScript, node.js, entre outros
 - 💞️ I’m looking to collaborate on  com o github 
-- 📫 How to reach me sou um jovem que ainda está aprendendo marcos_inacio_537
+- 📫 How to reach me sou um jovem que ainda está aprendendo intagram: @marcos_inacio_537 
 
 <!---
 Marcosidr/Marcosidr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
