@@ -7,13 +7,9 @@
 
 ## 📊 Minhas Estatísticas no GitHub
 
-<!-- Gráfico de commits semanal/mensal -->
 [![Histórico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=Marcosidr&theme=tokyonight&hide_border=true)](https://github.com/Marcosidr)
 [![Minhas Estatísticas](https://github-readme-stats.vercel.app/api?username=Marcosidr&show_icons=true&theme=radical)](https://github.com/Marcosidr)
 [![Linguagens Principais](https://github-readme-stats.vercel.app/api/top-langs/?username=Marcosidr&layout=compact&theme=radical)](https://github.com/Marcosidr)
-
-<!-- Gráfico de atividade -->
-![Gráfico de Atividade](https://activity-graph.herokuapp.com/graph?username=Marcosidr&theme=react-dark&hide_border=true)
 
 ---
 
@@ -41,9 +37,9 @@
 
 | Projeto | Descrição | Tecnologias | Link |
 |---------|-----------|------------|------|
-| Sistema Clínica Médica | Sistema web para gerenciar clínica médica | Java | [GitHub](https://github.com/Marcosidr/Projeto-Java) |
-| Portfólio Pessoal | Meu portfólio pessoal em desenvolvimento | HTML, CSS, Bootstrap, React | [GitHub](https://github.com/Marcosidr/portfolio) |
-| Projeto Pintor | Projeto de gerenciamento de serviços de pintura | PHP, JavaScript, MySQL | [GitHub](https://github.com/Marcosidr/projetoPintor) |
+| Sistema Clínica Médica | Sistema web para gerenciar clínica médica | Java | [GitHub](https://github.com/Marcosidr/Projeto-Java) ![Commits](https://img.shields.io/github/commit-activity/m/Marcosidr/Projeto-Java?style=flat-square) ![Stars](https://img.shields.io/github/stars/Marcosidr/Projeto-Java?style=flat-square) ![Forks](https://img.shields.io/github/forks/Marcosidr/Projeto-Java?style=flat-square) |
+| Portfólio Pessoal | Meu portfólio pessoal em desenvolvimento | HTML, CSS, Bootstrap, React | [GitHub](https://github.com/Marcosidr/portfolio) ![Commits](https://img.shields.io/github/commit-activity/m/Marcosidr/portfolio?style=flat-square) ![Stars](https://img.shields.io/github/stars/Marcosidr/portfolio?style=flat-square) ![Forks](https://img.shields.io/github/forks/Marcosidr/portfolio?style=flat-square) |
+| Projeto Pintor | Projeto de gerenciamento de serviços de pintura | PHP, JavaScript, MySQL | [GitHub](https://github.com/Marcosidr/projetoPintor) ![Commits](https://img.shields.io/github/commit-activity/m/Marcosidr/projetoPintor?style=flat-square) ![Stars](https://img.shields.io/github/stars/Marcosidr/projetoPintor?style=flat-square) ![Forks](https://img.shields.io/github/forks/Marcosidr/projetoPintor?style=flat-square) |
 
 ---
 
@@ -61,5 +57,6 @@
 ## ✨ Extras Visuais
 
 
+![Commits últimos 30 dias](https://img.shields.io/github/commit-activity/m/Marcosidr/Marcosidr?style=flat-square)
 ![Issues](https://img.shields.io/github/issues/Marcosidr/Marcosidr?style=flat-square)
 ![Estrelas](https://img.shields.io/github/stars/Marcosidr/Marcosidr?style=flat-square)
