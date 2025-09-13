@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Marcos Inácio
 
-**Desenvolvedor Júnior | PHP & JavaScript | Banco de Dados | Estudando React**  
+**Desenvolvedor Júnior | PHP & JavaScript | Banco de Dados | Estudando React e Java**  
 *"Apaixonado por desenvolvimento e novas tecnologias"*  
 
 ---
